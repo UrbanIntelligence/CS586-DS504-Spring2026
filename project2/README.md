@@ -27,9 +27,9 @@ testing model:
 ## Current Leaderboard
 | rank | Name | Accuracy |
 |---|---|---|
-|**1**   | 	Alysha Creelman | 0.8696 |
-|**2**   | 	Ankit Gole | 0.8589 |
-|**3**   | Austin Aguirre | 0.8556 |
+|**1**   | 	| |
+|**2**   | 	| |
+|**3**   |  | |
 
 
 ## Deliverables
