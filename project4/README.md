@@ -1,7 +1,7 @@
 # Individual Project 4
 # Meta-Learning and Few Shot Learning
 #### Due Date
-* Tuesday Apr 29, 2025 (23:59)
+* Tuesday Apr 28, 2026 (23:59)
 
 #### Total Points
 * 100 (One Hundred)
@@ -28,9 +28,9 @@ testing model:
 ## Current Leaderboard
 | rank | Name | Accuracy |
 |---|---|---|
-|**1**   | Mansi Rupesh Mantri | 0.8534 |
-|**2**   | Blake Mcleod | 0.8220 |
-|**3**   | Ivan Eroshenko | 0.8071 |
+|**1**   | | |
+|**2**   | | |
+|**3**   | | |
 
 
 ## Evaluation
