@@ -1,7 +1,7 @@
 # Individual Project 2
 # Classification with Deep Learning
 #### Due Date
-* Updated to Tuesday Mar 17, 2025 (23:59), 
+* Updated to Tuesday Mar 17, 2026 (23:59), 
 
 
 #### Total Points
