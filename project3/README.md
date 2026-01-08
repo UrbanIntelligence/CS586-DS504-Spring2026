@@ -2,7 +2,7 @@
 # Image Generation with GAN
 
 #### Due Date
-* Tuesday Apr 8, 2025 (23:59)
+* Tuesday Apr 7, 2026 (23:59)
 
 #### Total Points 
 * 100 (One Hundred)
