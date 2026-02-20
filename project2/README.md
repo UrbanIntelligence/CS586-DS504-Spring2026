@@ -8,7 +8,7 @@
 * 100 (One Hundred)
 
 ## Goal
-In this project, you will be asked to finish a sequence classification task using deep learning. A trajectory data set with five taxi drivers' daily driving trajectories in 6 months will be provided. The primary objective is to predict which driver each 100-step sub-trajectory, extracted from the daily trajectories, belongs to. To grade/test your model, we have a separate set of data for five additional days (5 CSV files, same format as the training data). We will use the same preprocessing steps to ensure consistent data handling. 
+In this project, you will be asked to finish a sequence classification task using deep learning. A trajectory data set with five taxi drivers' daily driving trajectories in 6 months will be provided. (see the link in the "Dataset Download" section on this page.) The primary objective is to predict which driver each 100-step sub-trajectory, extracted from the daily trajectories, belongs to. To grade/test your model, we have a separate set of data for five additional days (5 CSV files, same format as the training data). We will use the same preprocessing steps to ensure consistent data handling. 
 
 <img src="https://github.com/UrbanIntelligence/CS586-DS504-Spring2024/blob/master/project2/pic/classification.png" width="100%">
 
