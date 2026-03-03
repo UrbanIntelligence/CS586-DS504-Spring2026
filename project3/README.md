@@ -219,7 +219,7 @@ Generate images from other data sources or train a variation of basic GAN model 
 * Submit job on Turing server
    ``` shell
    #!/bin/bash
-   #SBATCH -A ds504
+   #SBATCH -A cs586
    #SBATCH -p academic
    #SBATCH -N 1
    #SBATCH -c 8
