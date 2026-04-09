@@ -182,7 +182,7 @@ Please compress all the below files into a zipped file and submit the zip file (
 * Submit job on Turing server
    ```shell
    #!/bin/bash
-   #SBATCH -A ds504
+   #SBATCH -A cs586
    #SBATCH -p academic
    #SBATCH -N 1
    #SBATCH -c 8
