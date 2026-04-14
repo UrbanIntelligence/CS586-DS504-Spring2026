@@ -10,7 +10,7 @@ import numpy as np
 from tqdm import tqdm
 
 def read_raw_pickle() -> dict:
-    pickle_path = os.path.dirname(os.path.realpath(__file__)) + '/validation_data.pkl'
+    pickle_path = os.path.dirname(os.path.realpath(__file__)) + '/train_data.pkl'
     dict_of_df = pd.read_pickle(pickle_path)
     return dict_of_df
 
@@ -118,6 +118,6 @@ if __name__ == '__main__':
             continue
 
     # Save the dictionary of all processed trajectories to a single pickle file
-    pickle_file_path = os.path.join(pickle_dir, 'validation20_feature_all.pkl')
+    pickle_file_path = os.path.join(pickle_dir, 'train400_feature_all.pkl')
     with open(pickle_file_path, 'wb') as f:
         pickle.dump(all_trajectories, f) 
