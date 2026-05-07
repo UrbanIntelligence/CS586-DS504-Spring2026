@@ -31,9 +31,9 @@ testing model:
 ## Current Leaderboard
 | rank | Name | Accuracy |
 |---|---|---|
-|**1**   | 	| |
-|**2**   | 	| |
-|**3**   |  | |
+|**1**   | Vineeth Bekal	| 92.3%|
+|**2**   | Gandhali Sheth	| 92.03%|
+|**3**   | John Chau |92% |
 
 
 ## Deliverables
