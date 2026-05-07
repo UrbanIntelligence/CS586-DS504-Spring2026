@@ -28,9 +28,9 @@ testing model:
 ## Current Leaderboard
 | rank | Name | Accuracy |
 |---|---|---|
-|**1**   | | |
-|**2**   | | |
-|**3**   | | |
+|**1**   |Shyam Mehulbhai Patadia  | 88.6% |
+|**2**   | Noah Cyr|87.6% |
+|**3**   |Nischal Patel |87.4% |
 
 
 ## Evaluation
